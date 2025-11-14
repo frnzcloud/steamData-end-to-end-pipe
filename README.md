@@ -1,4 +1,4 @@
-# edu-self-project
+# E-Retail Data Analysis
 
 ## Overview
 
